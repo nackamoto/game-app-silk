@@ -36,11 +36,11 @@ export default function LaunchHeader() {
     >
       <div className="flex  ">
         <Image
-          src="./static/photos/seedstars.png"
-          width={140}
+          src="./static/photos/seedzelle.png"
+          width={50}
           preview={false}
           alt="logo"
-          className="ml-3 rounded-sm"
+          className="ml-3 rounded-sm size-2"
         />
         <div className="text-white text-xl font-sans ml-5 flex items-end">
           A special puzzle game
@@ -59,7 +59,7 @@ export default function LaunchHeader() {
         >
           <Avatar
             style={{ padding: 15 }}
-            // size={{ xs: 24, sm: 32, md: 40, lg: 64, xl: 80 }} 
+            // size={{ xs: 24, sm: 32, md: 40, lg: 64, xl: 80 }}
             icon={<UserOutlined />}
           />
         </Dropdown>

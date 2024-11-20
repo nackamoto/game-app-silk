@@ -7,7 +7,7 @@ const Register = () => {
     <main className="w-full h-full justify-center items-center flex flex-col space-y-12">
       <header className="flex flex-col space-y-3 items-center">
         <Image
-          src="./static/photos/seedstars.png"
+          src="./static/photos/seedzelle.png"
           width={150}
           preview={false}
           alt="login-img"

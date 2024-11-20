@@ -40,13 +40,13 @@ export default function Started() {
             )}
           </section>
         </section>
-        <section className="h-full w-full flex flex-col items-center justify-center bg-white">
+        <section className="h-full w-full flex flex-col items-center justify-center bg-white px-10">
           <div>
-            <p className="text-5xl font-bold">{`${user?.firstName ?? ""} ${
+            <p className="text-3xl font-bold text-stone-700">{`${user?.firstName ?? ""} ${
               user?.lastName ?? ""
             }`}</p>
-            <p className="text-2xl font-semibold">{user?.email}</p>
-            <p className="text-2xl font-semibold">{user?.educationalLevel}</p>
+            <p className="text-2xl font-semibold text-stone-700">{user?.email}</p>
+            <p className="text-2xl font-semibold text-stone-700">{user?.educationalLevel}</p>
           </div>
         </section>
       </main>

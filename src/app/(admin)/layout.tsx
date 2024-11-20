@@ -34,12 +34,12 @@ export default function AdminLayout({
       <Layout className="w-full h-full">
         <nav>
           <Menus />
-        </nav> 
+        </nav>
         <Content style={style} className={`${mulish.className} flex-1`}>
           {children}
         </Content>
         <Footer style={{ textAlign: "center" }}>
-          Seedzzle ©{new Date().getFullYear()} Seedstars Academy
+          seedzelle ©{new Date().getFullYear()}
         </Footer>
       </Layout>
     </Layout>

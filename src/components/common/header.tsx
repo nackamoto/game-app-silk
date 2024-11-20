@@ -30,7 +30,7 @@ export default function MyHeader() {
       ),
     },
   ];
-  
+
   return (
     <Header
       style={{
@@ -49,7 +49,7 @@ export default function MyHeader() {
       {/* <div className="w-48 bg-white h-[65%] m-3 rounded-md items-center" /> */}
 
       <Image
-        src="./static/photos/seedstars.png"
+        src="./static/photos/seedzelle.png"
         width={140}
         preview={false}
         alt="logo"

@@ -35,7 +35,7 @@ export default function GameLayout({
           {children}
         </Content>
         <Footer style={{ textAlign: "center" }}>
-          Seedzzle ©{new Date().getFullYear()} Seedstars Academy
+          seedzelle ©{new Date().getFullYear()}
         </Footer>
       </Layout>
     </Layout>

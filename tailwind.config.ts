@@ -73,7 +73,7 @@ const config = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       backgroundImage: {
-        'auth': 'url("/static/photos/logo.png")',
+        'auth': 'url("/static/photos/logo.jpg")',
       }
     },
   },
