@@ -50,10 +50,10 @@ export default function MyHeader() {
 
       <Image
         src="./static/photos/seedzelle.png"
-        width={140}
+        width={50}
         preview={false}
         alt="logo"
-        className="ml-3 rounded-sm"
+        className="ml-3 rounded-sm size-2"
       />
 
       {/* Icons options */}

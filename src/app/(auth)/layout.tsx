@@ -16,7 +16,7 @@ const AuthLayout = ({ children }: LayoutProps) => {
 
                 <div className="flex flex-col h-full justify-end items-start space-y-12 pl-10 pb-24 ">
                     <header className="flex flex-col space-y-3">
-                        <p className="text-4xl font-bold text-white">{`A Better Learning Experience`}</p>
+                        <p className="text-4xl font-bold text-white">{`A Better Gaming Experience`}</p>
                         <p className="text-xl font-medium text-zinc-50">
                             {`Sign in to your account to continue`}
                         </p>
